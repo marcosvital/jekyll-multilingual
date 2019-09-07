@@ -1,34 +1,22 @@
-# Multilingual Jekyll
+# Open Source game tools
 
-This repository aims to show how to get a minimal multilingual *Jekyll* website.
+This repository aims organize a list of open source tools that can be used to create computer games. Special focus is given to tools that don't need coding skills to be used or require coding only to optional and/or advanced functions.
 
-It is based on the [**Making *Jekyll* multilingual**](https://www.sylvaindurand.org/making-jekyll-multilingual/) article, applied on the [Jekyll default theme](https://github.com/jglovier/jekyll-new).
+This repo has a website here, and is currently mantained both in English and Portuguese.
 
-You can check the demo on [sylvaindurand.github.io/jekyll-multilingual/](https://sylvaindurand.github.io/jekyll-multilingual/).
+## Why?
 
-**Warning**: this repo is not maintained anymore by its author, but pull requests are still welcomed.
+I'm interested in using games as a tool for teaching, and while I saw some students develop games for this purpose using RPG Maker, I immediately thought: are there any open source alternatives to do that?    
 
+## How to contribute
 
-## Make your website multilingual
+Feel free to suggest or add any tools you know that are not listed. You can do that in many ways:
+- comment on this issue;
+- send a pull request;
+- contact me on Twitter;
+- send me an email: marcosvital at gmail.
 
-1. Have a look at the article [Making *Jekyll* multilingual](https://www.sylvaindurand.org/making-jekyll-multilingual/), which explains how things work
-2. Check the [diff for Jekyll 3.1.x](https://github.com/sylvaindurand/jekyll-multilingual/commit/111495e91e8986db21368e54a42188cdbbc44b6f) (older versions: [3.0.x](https://github.com/sylvaindurand/jekyll-multilingual/commit/b2da2a07c325a1b6e01f524dad6582f2daf70ccf), [2.5.x](https://github.com/sylvaindurand/jekyll-multilingual/commit/e0bed79df22d2d35a75d0906e2c9c2baeac44a73))
-3. Reproduce it on your website!
+## About the bilingual website
 
+This repo website was created based on this [template](https://github.com/sylvaindurand/jekyll-multilingual).
 
-## Create a multilingual website from stratch
-
-1. Still have a look at the article [Making *Jekyll* multilingual](https://www.sylvaindurand.org/making-jekyll-multilingual/), which explains how things work!
-2. Clone the repo: `git clone https://github.com/sylvaindurand/jekyll-multilingual.git`
-3. Open the folder: `cd jekyll-multilingual`
-4. Remove `Readme.md` and `jekyll-multilingual.gemspec`, which are useless outside this repository
-5. Build the website: `jekyll build`
-
-## Colophon
-
-After having written an article about having a multilingual *Jekyll* website, [sigul](https://talk.jekyllrb.com/t/a-vanilla-jekyll-theme-multilingual-with-no-plugins/) gave the idea to provide a minimal working example. Here we are!
-
-The [source code](https://github.com/sylvaindurand/jekyll-multilingual) is freely available on [GitHub](https://github.com/sylvaindurand/jekyll-multilingual). The *Jekyll* default theme is released under the MIT License, such as the modifications shown in this repository.
-
-## Question?
-Please feel free to [open an issue](https://github.com/sylvaindurand/jekyll-multilingual/issues) or to [push a commit](https://github.com/sylvaindurand/jekyll-multilingual/pulls).
