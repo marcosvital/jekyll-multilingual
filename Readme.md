@@ -11,9 +11,9 @@ I'm interested in using games as a tool for teaching, and while I saw some stude
 ## How to contribute
 
 Feel free to suggest or add any tools you know that are not listed. You can do that in many ways:
-- comment on this issue;
+- comment on [this issue](https://github.com/marcosvital/open-game-tools/issues/1);
 - send a pull request;
-- contact me on Twitter;
+- contact me on [Twitter](https://twitter.com/marcosvcvital);
 - send me an email: marcosvital at gmail.
 
 ## About the bilingual website

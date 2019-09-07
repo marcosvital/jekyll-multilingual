@@ -6,16 +6,7 @@ ref: about
 lang: en
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find this multilanguage theme at :
-{% include icon-github.html username="sylvaindurand" %} /
-[multilingual-jekyll](https://github.com/sylvaindurand/multilingual-jekyll)
+This site aims to organize a list of open source tools that can be used to create computer games. Special focus is given to tools that don't need coding skills to be used or require coding only to optional and/or advanced functions.
 
-You can find the original source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This project was born because I'm a lecturer and researcher interested in using games as a tool for teaching. While I saw some students develop games for this purpose using RPG Maker, I immediately thought: are there any open source alternatives to do that?
