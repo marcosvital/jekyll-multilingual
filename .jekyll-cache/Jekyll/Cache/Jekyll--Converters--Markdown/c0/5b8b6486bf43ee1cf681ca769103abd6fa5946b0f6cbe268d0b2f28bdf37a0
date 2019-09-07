@@ -1,0 +1,25 @@
+I"U<h2 id="open-source-game-tools">Open Source game tools</h2>
+
+<p>This repository aims to organize a list of open source tools that can be used to create computer games. Special focus is given to tools that don’t need coding skills to be used or require coding only to optional and/or advanced functions.</p>
+
+<p>This website is currently maintained both in English and <a href="https://marcosvital.github.io/open-game-tools/bem-vindo.html">Portuguese</a>.</p>
+
+<h2 id="why">Why?</h2>
+
+<p>I’m interested in using games as a tool for teaching, and while I saw some students develop games for this purpose using RPG Maker, I immediately thought: are there any open source alternatives to do that?</p>
+
+<h2 id="how-to-contribute">How to contribute</h2>
+
+<p>Feel free to suggest or add any tools you know that are not listed. You can do that in many ways:</p>
+<ul>
+  <li>comment on <a href="https://github.com/marcosvital/open-game-tools/issues/1">this issue</a> in the project repository at GitHub;</li>
+  <li>send a pull request using GitHub;</li>
+  <li>contact me on <a href="https://twitter.com/marcosvcvital">Twitter</a>;</li>
+  <li>send me an email: marcosvital at gmail.</li>
+</ul>
+
+<h2 id="about-this-website">About this website</h2>
+
+<p>This website was created based on <a href="https://github.com/sylvaindurand/jekyll-multilingual">this template</a>.</p>
+
+:ET

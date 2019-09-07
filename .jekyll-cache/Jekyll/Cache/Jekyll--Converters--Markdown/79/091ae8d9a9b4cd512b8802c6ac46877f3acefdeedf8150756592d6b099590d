@@ -1,0 +1,24 @@
+I"�<h2 id="ferramentas-abertas-para-criação-de-jogos">Ferramentas abertas para criação de jogos</h2>
+
+<p>Este repositório tem como objetivo organizar uma lista de ferramentas abertas (<em>open source</em>) que possam ser usadas na criação de jogos de computador. Nosso principal foco são ferramentas que não exijam conhecimento de programação para serem usadas, ou nas quais os conhecimentos de programação sejam necessários apenas para funcionalidades opcionais e/ou avançadas.</p>
+
+<p>Este site é mantido em Português e em <a href="https://marcosvital.github.io/open-game-tools/">Inglês</a>.</p>
+
+<h2 id="por-que">Por que?</h2>
+
+<p>Eu estou interessado no uso de games no ensino, e ao ter contato com estudantes desenvolvendo jogos com este propósito usando o PG maker, decidi buscar por alternativas abertas para fazer isso. Escrevi sobe isso <a href="https://medium.com/hip%C3%B3tese-nula/ferramentas-abertas-para-criar-jogos-3d4efafa5f1b">aqui, no meu blog</a>.</p>
+
+<h2 id="como-contribuir">Como contribuir</h2>
+
+<p>Fique à vontade para sugerir ou adicionar qualquer ferramenta que você conheça e que não esteja listada. Você pode fazer isso por diversos caminhos diferentes:</p>
+<ul>
+  <li>comentando <a href="https://github.com/marcosvital/open-game-tools/issues/2">neste issue</a> no repositório do projeto no GitHub;</li>
+  <li>mandando um <em>pull request</em> pelo GitHub;</li>
+  <li>me contatando no <a href="https://twitter.com/marcosvcvital">Twitter</a>;</li>
+  <li>me mandando um email: marcosvital at gmail.</li>
+</ul>
+
+<h2 id="sobre-este-site">Sobre este site</h2>
+
+<p>Este site foi criado usando <a href="https://github.com/sylvaindurand/jekyll-multilingual">este modelo</a>.</p>
+:ET
