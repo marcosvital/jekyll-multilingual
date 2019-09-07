@@ -15,14 +15,14 @@ description:
   pt: Em breve. Écrivez une super description de votre nouveau site ici. Vous pouvez modifier cette ligne dans _config.yml. Elle apparaîtra dans la balise meta description (pour les résultats sur Google) et dans le fil RSS feed.xml.
 index:
   en:
-  fr: bem-vindo.html
+  pt: bem-vindo.html
 feed:
   en: /feed.xml
   pt: /feed_pt.xml
 baseurl: "/open-game-tools" # the subpath of your site, e.g. /blog
 url: "http://marcosvital.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: marcosvcvital
+github_username:  marcosvital
 
 # Build settings
 markdown: kramdown
