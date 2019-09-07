@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Bem vindo!"
+ref: welcome
+date:   2019-09-07 10:00:00 +0100
+categories: 
+lang: pt
+---
+
+## Ferramentas abertas para criação de jogos
+
+Este repositório tem como objetivo organizar uma lista de ferramentas abertas (*open source*) que possam ser usadas na criação de jogos de computador. Nosso principal foco são ferramentas que não exijam conhecimento de programação para serem usadas, ou nas quais os conhecimentos de programação sejam necessários apenas para funcionalidades opcionais e/ou avançadas.
+
+Este site é mantido em Português e em [Inglês](https://marcosvital.github.io/open-game-tools/).
+
+
+## Por que?
+
+Eu estou interessado no uso de games no ensino, e ao ter contato com estudantes desenvolvendo jogos com este propósito usando o PG maker, decidi buscar por alternativas abertas para fazer isso. Escrevi sobe isso [aqui, no meu blog](https://medium.com/hip%C3%B3tese-nula/ferramentas-abertas-para-criar-jogos-3d4efafa5f1b).
+
+
+## Como contribuir
+
+Fique à vontade para sugerir ou adicionar qualquer ferramenta que você conheça e que não esteja listada. Você pode fazer isso por diversos caminhos diferentes:
+- comentando [neste issue](https://github.com/marcosvital/open-game-tools/issues/2) no repositório do projeto no GitHub;
+- mandando um *pull request* pelo GitHub;
+- me contatando no [Twitter](https://twitter.com/marcosvcvital);
+- me mandando um email: marcosvital at gmail.
+
+## Sobre este site
+
+Este site foi criado usando [este modelo](https://github.com/sylvaindurand/jekyll-multilingual).
