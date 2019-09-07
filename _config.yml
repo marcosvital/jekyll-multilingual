@@ -18,7 +18,7 @@ index:
   fr: bem-vindo.html
 feed:
   en: /feed.xml
-  pt: /flux.xml
+  pt: /feed_pt.xml
 baseurl: "/open-game-tools" # the subpath of your site, e.g. /blog
 url: "http://marcosvital.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
