@@ -1,4 +1,4 @@
-I"�<h2 id="ferramentas-abertas-para-criação-de-jogos">Ferramentas abertas para criação de jogos</h2>
+I"<h2 id="ferramentas-abertas-para-criação-de-jogos">Ferramentas abertas para criação de jogos</h2>
 
 <p>Este repositório tem como objetivo organizar uma lista de ferramentas abertas (<em>open source</em>) que possam ser usadas na criação de jogos de computador. Nosso principal foco são ferramentas que não exijam conhecimento de programação para serem usadas, ou nas quais os conhecimentos de programação sejam necessários apenas para funcionalidades opcionais e/ou avançadas.</p>
 
@@ -13,8 +13,8 @@
 <p>Fique à vontade para sugerir ou adicionar qualquer ferramenta que você conheça e que não esteja listada. Você pode fazer isso por diversos caminhos diferentes:</p>
 <ul>
   <li>comentando <a href="https://github.com/marcosvital/open-game-tools/issues/2">neste issue</a> no repositório do projeto no GitHub;</li>
-  <li>mandando um <em>pull request</em> pelo GitHub;</li>
-  <li>me contatando no <a href="https://twitter.com/marcosvcvital">Twitter</a>;</li>
+  <li>mandando um <em>pull request</em> pelo <a href="https://github.com/marcosvital/open-game-tools">repositório do projeto no GitHub</a>;</li>
+  <li>me escrevendo no <a href="https://twitter.com/marcosvcvital">Twitter</a>;</li>
   <li>me mandando um email: marcosvital at gmail.</li>
 </ul>
 

@@ -23,8 +23,8 @@ Eu estou interessado no uso de games no ensino, e ao ter contato com estudantes 
 
 Fique à vontade para sugerir ou adicionar qualquer ferramenta que você conheça e que não esteja listada. Você pode fazer isso por diversos caminhos diferentes:
 - comentando [neste issue](https://github.com/marcosvital/open-game-tools/issues/2) no repositório do projeto no GitHub;
-- mandando um *pull request* pelo GitHub;
-- me contatando no [Twitter](https://twitter.com/marcosvcvital);
+- mandando um *pull request* pelo [repositório do projeto no GitHub](https://github.com/marcosvital/open-game-tools);
+- me escrevendo no [Twitter](https://twitter.com/marcosvcvital);
 - me mandando um email: marcosvital at gmail.
 
 ## Sobre este site

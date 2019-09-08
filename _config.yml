@@ -7,12 +7,12 @@
 
 # Site settings
 title:
-  en: Open source game tools
+  en: Open source game creation tools
   pt: Ferramentas abertas para criação de jogos
-email: https://marcosvital.github.io/
+email: 
 description:
   en: This is a project to organize a list of open source tools that can be used to create computer games.
-  pt: Este é um projeto com objetivo de organizar uma lista de ferramentas open source que possam ser usadas na criação de jogos de computador.
+  pt: Este é um projeto com objetivo de organizar uma lista de ferramentas *open source* que possam ser usadas na criação de jogos de computador.
 index:
   en:
   pt: bem-vindo.html

@@ -21,11 +21,10 @@ I'm interested in using games as a tool for teaching, and while I saw some stude
 
 Feel free to suggest or add any tools you know that are not listed. You can do that in many ways:
 - comment on [this issue](https://github.com/marcosvital/open-game-tools/issues/1) in the project repository at GitHub;
-- send a pull request using GitHub;
+- send a pull request in the [project repo at GitHub](https://github.com/marcosvital/open-game-tools);
 - contact me on [Twitter](https://twitter.com/marcosvcvital);
 - send me an email: marcosvital at gmail.
 
 ## About this website
 
 This website was created based on [this template](https://github.com/sylvaindurand/jekyll-multilingual).
-

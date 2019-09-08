@@ -1,4 +1,4 @@
-I"U<h2 id="open-source-game-tools">Open Source game tools</h2>
+I"¢<h2 id="open-source-game-tools">Open Source game tools</h2>
 
 <p>This repository aims to organize a list of open source tools that can be used to create computer games. Special focus is given to tools that donâ€™t need coding skills to be used or require coding only to optional and/or advanced functions.</p>
 
@@ -13,7 +13,7 @@
 <p>Feel free to suggest or add any tools you know that are not listed. You can do that in many ways:</p>
 <ul>
   <li>comment on <a href="https://github.com/marcosvital/open-game-tools/issues/1">this issue</a> in the project repository at GitHub;</li>
-  <li>send a pull request using GitHub;</li>
+  <li>send a pull request in the <a href="https://github.com/marcosvital/open-game-tools">project repo at GitHub</a>;</li>
   <li>contact me on <a href="https://twitter.com/marcosvcvital">Twitter</a>;</li>
   <li>send me an email: marcosvital at gmail.</li>
 </ul>
@@ -21,5 +21,4 @@
 <h2 id="about-this-website">About this website</h2>
 
 <p>This website was created based on <a href="https://github.com/sylvaindurand/jekyll-multilingual">this template</a>.</p>
-
 :ET

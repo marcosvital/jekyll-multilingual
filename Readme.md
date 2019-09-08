@@ -2,7 +2,7 @@
 
 This repository aims to organize a list of open source tools that can be used to create computer games. Special focus is given to tools that don't need coding skills to be used or require coding only to optional and/or advanced functions.
 
-This repo has a [website here](https://marcosvital.github.io/open-game-tools/), and is currently maintained both in English and Portuguese.
+This repo has a [website here](https://marcosvital.github.io/open-game-tools/), and is currently maintained both in English and in [Portuguese](https://marcosvital.github.io/open-game-tools/bem-vindo.html).
 
 ## Why?
 
